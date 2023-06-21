@@ -9,7 +9,7 @@ HEADERS = {
                   "Chrome/96.0.4664.93 Safari/537.36"
 }
 RESULTS = []
-DOMAINS_FILE = "test.txt"  # файл с доменами
+DOMAINS_FILE = "data/test.txt"  # файл с доменами
 OUT_FILE = "output.txt"  # файл вывода
 
 
